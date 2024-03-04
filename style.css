@@ -1,0 +1,60 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px 10px ;
+}
+.header{
+    display: flex;
+    background-color:rgba(7, 246, 226, 0.895);
+    width: 100%;
+    border: solid;
+}
+.logo{
+    font-size: 1.5rem;
+    color: black;
+}
+.logo :hover{
+    color: red;
+    font-size:3.1rem;
+}
+.sign{
+    align-items: center;
+    text-align: center;
+    margin-left:40vh ;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.sign :hover {
+color: red;
+font-size: 35px;
+}
+.sign a{
+    border-style: solid;
+    font-size: 2rem;
+    color: black;
+
+}
+.heading{
+    display: flex;
+}
+.tend{
+    font-size: 20px;
+}
+.table{
+    border: solid;
+    background-color: rgba(7, 246, 226, 0.217);
+}
+.table td img{
+    height: 20vh;
+    border: solid black;
+}
+.tender{
+    display: flex;
+}
+#txt{
+    font-size: 3rem;
+    color: black;
+    margin-top: 30px;
+}
+.head{
+    font-size: 20px;
+}

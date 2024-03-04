@@ -1,0 +1,40 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+body{
+    background-color: rgba(7, 246, 226, 0.895);
+}
+.login{
+    
+    align-items: center;
+    text-align: center;
+    margin: 10% 35%; 
+    background-color: white;
+    padding: 80px 0;
+    border-radius: 10%;
+}
+.login input{
+   background-color: rgba(7, 246, 226, 0.895);
+    font-size: 25px;
+    margin: 10px 0px;
+    border: white;
+}
+
+.login p{
+font-size: 35px;
+margin:1vh ;
+}
+.login button{
+    background-color: rgba(7, 246, 226, 0.895);
+    border: none;
+    margin-top: 80px;
+}
+
+.login :hover{
+    font-size: 30px;
+}
+.submit :hover{
+    font-size: 40px;
+}
+
